@@ -1,0 +1,77 @@
+body{
+  box-sizing: border-box;
+  background-image:url(background.jpg);
+  margin: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.Contenitore{
+  width: 1000px;
+  height: 550px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0,0,0,0.6);
+  border-radius: 2%;
+}
+
+header {
+  color: lime;
+  text-align:center;
+  padding-top: 30px;
+  border-bottom: 0px;
+}
+
+.Logo{
+  width: 190px;
+  height: 80px;
+  display: block;
+  margin: auto;
+}
+
+header>h1{
+  margin-bottom: 0px;
+}
+
+.Contenitore1{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+div nav {
+  background-color: lime;
+  width: 97%;
+  padding: 5px;
+  display: inline-block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main{
+  font-size: 18px;
+  color: white;
+}
+
+.Batteria1{
+  background-color: orange;
+  width: 300px;
+  height: 20px;
+  border-radius: 5%;
+}
+
+.Batteria2{
+  background-color: lime;
+  width: 500px;
+  height: 20px;
+  border-radius: 5%;
+}
+
+.Batteria3{
+  background-color: red;
+  width: 150px;
+  height: 20px;
+  border-radius: 5%;
+}
